@@ -1,0 +1,5 @@
+﻿  splines cuadraticos.cpp
+C:\Users\SNK93\source\repos\splines cuadraticos\splines cuadraticos.cpp(18,22): warning C4101: 'v3': variable local sin referencia
+C:\Users\SNK93\source\repos\splines cuadraticos\splines cuadraticos.cpp(18,18): warning C4101: 'v2': variable local sin referencia
+C:\Users\SNK93\source\repos\splines cuadraticos\splines cuadraticos.cpp(18,14): warning C4101: 'v1': variable local sin referencia
+  splines cuadraticos.vcxproj -> C:\Users\SNK93\source\repos\splines cuadraticos\Debug\splines cuadraticos.exe
